@@ -41,3 +41,10 @@ Fetching before rendering ensures you unblock your UI.
 - RSC: Moves rendering and data fetching on the server.
 - How Remix Fetches in parallel for nested routes.
 - Remix and Mutations for nested logic.
+
+#### Sources
+Sources
+- [Ryan Florence]("https://www.youtube.com/watch?v=95B8mnhzoCM")
+- [Tanstact Router Loaders]("https://tanstack.com/router/latest/docs/framework/react/guide/data-loading")
+- [React Router V6 Loaders]("https://reactrouter.com/en/main/route/loader")
+- [Remix]("https://remix.run/")
