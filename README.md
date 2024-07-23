@@ -44,6 +44,6 @@ Fetching before rendering ensures you unblock your UI.
 
 #### Sources
 - [Ryan Florence](https://www.youtube.com/watch?v=95B8mnhzoCM)
-- [Tanstact Router Loaders]("https://tanstack.com/router/latest/docs/framework/react/guide/data-loading)
-- [React Router V6 Loaders]("https://reactrouter.com/en/main/route/loader)
+- [Tanstact Router Loaders](https://tanstack.com/router/latest/docs/framework/react/guide/data-loading)
+- [React Router V6 Loaders](https://reactrouter.com/en/main/route/loader)
 - [Remix](https://remix.run/)
